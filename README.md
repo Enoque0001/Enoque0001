@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Enoque0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Enoque0001/Enoque0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou o @Enoque0001  
+- 👀 Tenho interesse em desenvolvimento web, design de interfaces (UI/UX) e automação.  
+- 🌱 Atualmente estou aprendendo JavaScript, React e como publicar sites com GitHub Pages.  
+- 💞️ Procuro colaborar com projetos open-source e plataformas educacionais.  
+- 📫 Como me encontrar: enoque0001@gmail.com ou no Instagram @tcc.pronto.aqui  
+- 😄 Pronomes: ele/dele  
+- ⚡ Curiosidade: desenvolvi minha primeira tela de login apenas com HTML e CSS e publiquei gratuitamente no GitHub Pages!  
